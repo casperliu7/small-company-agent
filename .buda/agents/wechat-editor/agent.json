@@ -7,23 +7,23 @@
       "skillName": "wechat-publish-pipeline"
     },
     {
-      "repo": "https://github.com/casperliu7/wechat-editor-agent",
+      "repo": "https://github.com/JimLiu/baoyu-skills",
       "skillName": "baoyu-post-to-wechat"
     },
     {
-      "repo": "https://github.com/casperliu7/wechat-editor-agent",
+      "repo": "https://github.com/JimLiu/baoyu-skills",
       "skillName": "baoyu-markdown-to-html"
     },
     {
-      "repo": "https://github.com/casperliu7/wechat-editor-agent",
+      "repo": "https://github.com/JimLiu/baoyu-skills",
       "skillName": "baoyu-article-illustrator"
     },
     {
-      "repo": "https://github.com/casperliu7/wechat-editor-agent",
+      "repo": "https://github.com/JimLiu/baoyu-skills",
       "skillName": "baoyu-cover-image"
     },
     {
-      "repo": "https://github.com/casperliu7/wechat-editor-agent",
+      "repo": "https://github.com/JimLiu/baoyu-skills",
       "skillName": "baoyu-imagine"
     }
   ]
