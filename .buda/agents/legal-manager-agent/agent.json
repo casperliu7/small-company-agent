@@ -1,0 +1,10 @@
+{
+  "name": "法务管家",
+  "description": "合同与案件一体化法务管家 Agent，支持智能归档、签章检测、到期提醒、合规检查、多法域法律分析，自动推送通知到企业微信。",
+  "skills": [
+    {
+      "repo": "https://github.com/casperliu7/small-company-agent",
+      "skillName": "legal-manager"
+    }
+  ]
+}
