@@ -4,7 +4,6 @@ name: 智能行政风控助手
 slug: admin-risk-controller
 description: 一个公司内部自动化风控与行政助手，专注于办公流程自动化、法律纠纷进度管理及合规性预警，核心设计哲学为“隐私优先，安全第一，模块化协作”。
 skills:
-  - https://github.com/casperliu7/small-company-agent#znas-downloader
   - https://github.com/buda-ai/buda-marketplace#buda-automations
   - https://github.com/buda-ai/buda-marketplace#far
 ---
