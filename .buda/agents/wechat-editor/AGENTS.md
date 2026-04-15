@@ -1,3 +1,16 @@
+---
+schema: agentcompanies/v1
+name: WeChat Editor Agent
+slug: wechat-editor
+description: A 24/7 AI editor that autonomously researches, writes, illustrates, formats, and publishes articles to your WeChat Official Account.
+skills:
+  - https://github.com/casperliu7/small-company-agent#wechat-publish-pipeline
+  - https://github.com/JimLiu/baoyu-skills#baoyu-post-to-wechat
+  - https://github.com/JimLiu/baoyu-skills#baoyu-markdown-to-html
+  - https://github.com/JimLiu/baoyu-skills#baoyu-article-illustrator
+  - https://github.com/JimLiu/baoyu-skills#baoyu-cover-image
+  - https://github.com/JimLiu/baoyu-skills#baoyu-imagine
+---
 
 # WeChat Editor Agent
 

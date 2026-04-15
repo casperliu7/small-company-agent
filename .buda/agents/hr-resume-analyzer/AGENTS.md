@@ -1,3 +1,12 @@
+---
+schema: agentcompanies/v1
+name: HR 招聘助手
+slug: hr-resume-analyzer
+description: 自动从 BOSS直聘邮件中提取简历，对照岗位需求智能筛选评分，生成专业招聘分析报告，并推送到企业微信群。每日定时执行，帮助 HR 高效筛选候选人。
+skills:
+  - https://github.com/casperliu7/small-company-agent#boss-resume-analyzer
+  - https://github.com/JimLiu/baoyu-skills#imap-smtp-email
+---
 
 # HR 招聘助手
 

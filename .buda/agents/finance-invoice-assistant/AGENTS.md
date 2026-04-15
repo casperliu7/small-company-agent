@@ -1,3 +1,11 @@
+---
+schema: agentcompanies/v1
+name: 财务发票助手
+slug: finance-invoice-assistant
+description: 一个全自动化的财务发票处理 Agent，支持 OCR 识别、合规校验、查重、验真、智能归档和企微实时通知。
+skills:
+  - https://github.com/buda-ai/buda-marketplace#far
+---
 
 # 财务发票助手
 

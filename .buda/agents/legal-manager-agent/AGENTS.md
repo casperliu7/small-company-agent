@@ -1,3 +1,11 @@
+---
+schema: agentcompanies/v1
+name: 法务管家
+slug: legal-manager-agent
+description: 合同与案件一体化法务管家 Agent，支持智能归档、签章检测、到期提醒、合规检查、多法域法律分析，自动推送通知到企业微信。
+skills:
+  - https://github.com/casperliu7/small-company-agent#legal-manager
+---
 
 # ⚖️ 法务管家 Agent
 

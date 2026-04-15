@@ -1,3 +1,11 @@
+---
+schema: agentcompanies/v1
+name: Smart Outbound Call Agent
+slug: smart-outbound-call-agent
+description: 智能外呼自动化机器人，支持大模型全双工流式对话。
+skills:
+  - https://github.com/casperliu7/small-company-agent#outbound-caller
+---
 
 # Smart Outbound Call Agent
 
