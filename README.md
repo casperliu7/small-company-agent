@@ -5,7 +5,7 @@ A collection of autonomous AI agents, multi-agent teams, and specialized skills 
 ## 📦 Directory Structure
 
 This repository follows the official Buda Marketplace structure:
-- **`.buda/agents/`** - Autonomous AI agents configured with specific personas and toolsets.
+- **`agents/`** - Autonomous AI agents configured with specific personas and toolsets.
 - **`.buda/teams/`** - Pre-configured multi-agent workflows for complex tasks.
 - **`skills/`** - Reusable toolsets (skills) that any agent can install.
 
@@ -15,10 +15,10 @@ This repository follows the official Buda Marketplace structure:
 
 | Agent Name | Path | Description |
 | :--- | :--- | :--- |
-| **WeChat Editor** | `.buda/agents/wechat-editor/` | A 24/7 AI editor that researches, writes, illustrates, formats, and publishes articles to your WeChat Official Account. |
-| **Finance Invoice Assistant** | `.buda/agents/finance-invoice-assistant/` | 一个全自动化的财务发票处理 Agent，支持 OCR 识别、合规校验、智能归档等。 |
-| **HR Resume Analyzer** | `.buda/agents/hr-resume-analyzer/` | 自动从 BOSS 直聘邮件中提取简历，对照岗位需求智能筛选评分并推送企微群。 |
-| **Sales & CRM Lead Processor** | `.buda/agents/sales-crm-lead-processor/` | An automation assistant for sales operations, inbox triage, and CRM lead synchronization. |
+| **WeChat Editor** | `agents/wechat-editor/` | A 24/7 AI editor that researches, writes, illustrates, formats, and publishes articles to your WeChat Official Account. |
+| **Finance Invoice Assistant** | `agents/finance-invoice-assistant/` | 一个全自动化的财务发票处理 Agent，支持 OCR 识别、合规校验、智能归档等。 |
+| **HR Resume Analyzer** | `agents/hr-resume-analyzer/` | 自动从 BOSS 直聘邮件中提取简历，对照岗位需求智能筛选评分并推送企微群。 |
+| **Sales & CRM Lead Processor** | `agents/sales-crm-lead-processor/` | An automation assistant for sales operations, inbox triage, and CRM lead synchronization. |
 | *(More coming soon)* | | |
 
 ## 🛠️ Skills Available
