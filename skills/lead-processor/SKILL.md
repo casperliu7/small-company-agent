@@ -1,6 +1,6 @@
 ---
-name: "Lead Processor"
-description: "Handles CRM sales leads and inbox triage. Categorizes real human emails vs. marketing noise and generates structured, human-in-the-loop replies."
+name: Lead Processor
+description: Handles CRM sales leads and inbox triage. Categorizes real human emails vs. marketing noise and generates structured, human-in-the-loop replies.
 ---
 
 # Lead Processor Skill

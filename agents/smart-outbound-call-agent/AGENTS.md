@@ -1,10 +1,10 @@
 ---
 schema: agentcompanies/v1
-name: "Smart Outbound Call Agent"
+name: Smart Outbound Call Agent
 slug: smart-outbound-call-agent
 skills:
   - https://github.com/casperliu7/small-company-agent#outbound-caller
-description: "An automated telemarketing robot supporting full-duplex streaming voice conversations powered by LLMs."
+description: An automated telemarketing robot supporting full-duplex streaming voice conversations powered by LLMs.
 ---
 
 # Smart Outbound Call Agent

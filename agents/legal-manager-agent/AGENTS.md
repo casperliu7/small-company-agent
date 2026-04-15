@@ -1,10 +1,10 @@
 ---
 schema: agentcompanies/v1
-name: "Legal Manager"
+name: Legal Manager
 slug: legal-manager-agent
 skills:
   - https://github.com/casperliu7/small-company-agent#legal-manager
-description: "An integrated legal assistant for contract and case management. Supports smart archiving, signature detection, expiration alerts, and compliance checks."
+description: An integrated legal assistant for contract and case management. Supports smart archiving, signature detection, expiration alerts, and compliance checks.
 ---
 
 # ⚖️ 法务管家 Agent

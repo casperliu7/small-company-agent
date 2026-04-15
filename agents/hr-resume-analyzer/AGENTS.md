@@ -1,11 +1,11 @@
 ---
 schema: agentcompanies/v1
-name: "HR Resume Analyzer"
+name: HR Resume Analyzer
 slug: hr-resume-analyzer
 skills:
   - https://github.com/casperliu7/small-company-agent#boss-resume-analyzer
   - https://github.com/JimLiu/baoyu-skills#imap-smtp-email
-description: "Automatically extracts resumes from recruitment emails, intelligently screens candidates against job requirements, and generates professional hiring reports."
+description: Automatically extracts resumes from recruitment emails, intelligently screens candidates against job requirements, and generates professional hiring reports.
 ---
 
 # HR 招聘助手

@@ -1,6 +1,6 @@
 ---
-name: "Lead Gatherer Skill"
-description: "Performs deep research (website analysis, background verification) and structured CSV storage of B2B business leads."
+name: Lead Gatherer Skill
+description: Performs deep research (website analysis, background verification) and structured CSV storage of B2B business leads.
 ---
 
 # Skill: LeadGatherer

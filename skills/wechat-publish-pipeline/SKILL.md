@@ -1,6 +1,6 @@
 ---
-name: "WeChat Publish Pipeline"
-description: "End-to-end pipeline for drafting, illustrating, and publishing articles to a WeChat Official Account draft box."
+name: WeChat Publish Pipeline
+description: End-to-end pipeline for drafting, illustrating, and publishing articles to a WeChat Official Account draft box.
 ---
 
 # WeChat Full Publish Pipeline

@@ -1,10 +1,10 @@
 ---
 schema: agentcompanies/v1
-name: "Finance Invoice Assistant"
+name: Finance Invoice Assistant
 slug: finance-invoice-assistant
 skills:
   - https://github.com/buda-ai/buda-marketplace#far
-description: "A fully automated finance agent supporting OCR extraction, compliance validation, invoice verification, smart archiving, and real-time notifications."
+description: A fully automated finance agent supporting OCR extraction, compliance validation, invoice verification, smart archiving, and real-time notifications.
 ---
 
 # 财务发票助手

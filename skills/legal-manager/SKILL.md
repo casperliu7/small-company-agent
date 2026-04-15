@@ -1,8 +1,8 @@
 ---
-name: "Legal Manager Skill"
+name: Legal Manager Skill
 
 allowed-tools: Read, Write, Edit, Bash, Glob
-description: "Core skill for contract and legal case management. Triggers on requests to archive contracts, check compliance terms, associate evidence files, and manage legal schedules."
+description: Core skill for contract and legal case management. Triggers on requests to archive contracts, check compliance terms, associate evidence files, and manage legal schedules.
 ---
 
 # ⚖️ 法务管家 (Legal Manager)

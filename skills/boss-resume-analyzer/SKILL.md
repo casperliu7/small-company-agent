@@ -1,6 +1,6 @@
 ---
-name: "Boss Resume Analyzer"
-description: "Analyzes candidate resumes from recruitment emails, downloads PDF attachments, extracts text, matches against job requirements, and produces concise hiring reports."
+name: Boss Resume Analyzer
+description: Analyzes candidate resumes from recruitment emails, downloads PDF attachments, extracts text, matches against job requirements, and produces concise hiring reports.
 ---
 
 # BOSS直聘简历分析技能

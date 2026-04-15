@@ -1,11 +1,11 @@
 ---
 schema: agentcompanies/v1
-name: "Admin Risk Controller"
+name: Admin Risk Controller
 slug: admin-risk-controller
 skills:
   - https://github.com/buda-ai/buda-marketplace#buda-automations
   - https://github.com/buda-ai/buda-marketplace#far
-description: "An internal automation assistant focused on office workflows, legal dispute tracking, and compliance risk management."
+description: An internal automation assistant focused on office workflows, legal dispute tracking, and compliance risk management.
 ---
 
 # 智能行政风控助手

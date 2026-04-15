@@ -1,12 +1,12 @@
 ---
 schema: agentcompanies/v1
-name: "Sales & CRM Lead Processor"
+name: Sales & CRM Lead Processor
 slug: sales-crm-lead-processor
 skills:
   - https://github.com/casperliu7/small-company-agent#lead-processor
   - https://github.com/buda-ai/buda-marketplace#buda-automations
   - https://github.com/buda-ai/buda-marketplace#far
-description: "An automation assistant for sales operations, inbox triage, and CRM lead synchronization."
+description: An automation assistant for sales operations, inbox triage, and CRM lead synchronization.
 ---
 
 # Sales & CRM Lead Processor
