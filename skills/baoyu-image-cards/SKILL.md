@@ -1,12 +1,11 @@
 ---
-name: Baoyu XHS Images
+name: Baoyu Image Cards
 version: 1.56.2
 metadata:
   openclaw:
-    homepage: https://github.com/JimLiu/baoyu-skills#baoyu-xhs-images
-description: Generates Xiaohongshu image card series with multiple visual styles, layouts, and color palettes optimized for engagement.
+    homepage: https://github.com/JimLiu/baoyu-skills#baoyu-image-cards
+description: Generates infographic image card series with multiple visual styles, layouts, and color palettes optimized for social media engagement.
 ---
-
 
 # Image Card Series Generator
 
@@ -289,9 +288,9 @@ Check these paths in order; first hit wins:
 
 | Path | Scope |
 |------|-------|
-| `.baoyu-skills/baoyu-xhs-images/EXTEND.md` | Project |
-| `${XDG_CONFIG_HOME:-$HOME/.config}/baoyu-skills/baoyu-xhs-images/EXTEND.md` | XDG |
-| `$HOME/.baoyu-skills/baoyu-xhs-images/EXTEND.md` | User home |
+| `.baoyu-skills/baoyu-image-cards/EXTEND.md` | Project |
+| `${XDG_CONFIG_HOME:-$HOME/.config}/baoyu-skills/baoyu-image-cards/EXTEND.md` | XDG |
+| `$HOME/.baoyu-skills/baoyu-image-cards/EXTEND.md` | User home |
 
 - **Found** → read, parse, print a summary (style / layout / watermark / language), continue.
 - **Not found + interactive** → run first-time setup (see `references/config/first-time-setup.md`) and save before anything else. Do NOT analyze content or ask style questions until preferences exist — this keeps first-run behavior predictable.
@@ -442,7 +441,7 @@ Always update the prompt file before regenerating — it's the source of truth a
 EXTEND.md lives at the first matching path listed in Step 0. Three ways to change it:
 
 - **Edit directly** — open EXTEND.md and change fields. Full schema: `references/config/preferences-schema.md`.
-- **Reconfigure interactively** — delete EXTEND.md (or ask "reconfigure baoyu-xhs-images preferences" / "重新配置"). The next run re-triggers first-time setup.
+- **Reconfigure interactively** — delete EXTEND.md (or ask "reconfigure baoyu-image-cards preferences" / "重新配置"). The next run re-triggers first-time setup.
 - **Common one-line edits**:
   - `preferred_image_backend: auto` — default; runtime-native tool wins, falls back to the only installed backend, asks only if multiple non-native are present.
   - `preferred_image_backend: codex-imagegen` — pin to Codex's built-in.
