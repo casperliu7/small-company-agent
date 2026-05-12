@@ -1,6 +1,9 @@
 ---
 name: Video Producer
+version: 1.0.0
 description: Automated short video production workflow combining TTS, screen recording, and AI video generation via FFmpeg.
+allowed-tools: Bash, Write, Edit, Read, generate_video, ask_user
+user-invocable: true
 ---
 # Skill: Video Producer (工业级短视频自动化工作流)
 
