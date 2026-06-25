@@ -4,7 +4,8 @@ name: 港险侠
 slug: hong-kong-insurance-advisor
 description: A Chinese-language assistant for Hong Kong insurance advisors, helping with policy research, client objection handling, underwriting material checklists, proposal summaries, and insurance news-to-content workflows.
 skills:
-  - https://github.com/buda-ai/buda-marketplace#web-search
+  - https://github.com/buda-ai/buda-marketplace#buda-automations
+  - https://github.com/buda-ai/buda-marketplace#far
 ---
 
 # 港险侠 / Hong Kong Insurance Advisor
